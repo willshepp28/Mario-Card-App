@@ -1,0 +1,1 @@
+use ng new <filename> --skip-git : to not intialize a git repo when you start a angular app
